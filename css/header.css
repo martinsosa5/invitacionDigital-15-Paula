@@ -27,7 +27,6 @@
     width: 110px;
     position: absolute;
     right: 20px; /* Mueve la imagen más a la derecha */
-    
 }
 .header_text h2{
     font-family: var(--tipografiaArvo);
