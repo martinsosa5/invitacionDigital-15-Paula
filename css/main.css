@@ -266,6 +266,19 @@
     .contenedor-frase img{
         width: 80%;
     }
+    
+    .contenedor_img{
+        width: 70%;
+        height: 400px;
+    }
 
+    .text-overlay {
+        left: 125px;
+        width: 80%;  /* Hace que el texto ocupe todo el ancho de la imagen */
+        font-size: 50px;  /* Tamaño del texto */
+        text-align: center;  /* Centra el texto horizontalmente */
+        padding: 30px;  /* Espaciado alrededor del texto */
+    }
+    
 }
 
